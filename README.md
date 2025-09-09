@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Bibek Ghimire Sharma
 
-🎓 BTech CSE Student | 💻 Web Developer | ⚙️ DSA Enthusiast | 🔐 Cybersecurity Learner  
+🎓 BTech CSE Student |💻 Web Developer | ⚙️ DSA Enthusiast | 🔐 Cybersecurity Learner  
 🚀 I love building real-world tech projects, solving problems, and exploring new tools and technologies.  
 🌱 Currently learning Full-Stack Development and contributing to open-source.
 
