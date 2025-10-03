@@ -4,7 +4,7 @@
 🚀 I love building real-world tech projects, solving problems, and exploring new tools and technologies.  
 🌱 Currently learning Full-Stack Development and contributing to open-source.
 
----
+-------
 
 ### 💼 About Me
 
