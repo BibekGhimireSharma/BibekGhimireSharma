@@ -36,7 +36,7 @@
 
 - [LinkedIn](https://www.linkedin.com/in/BibekSharma)
 - [GitHub](https://github.com/BibekGhimireSharma)
-- 2203011@ritindia.edu
+- sharmabibek2002@gmail.com
 
 ---
 
